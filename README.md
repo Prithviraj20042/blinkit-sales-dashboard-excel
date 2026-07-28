@@ -51,9 +51,11 @@ The objective of this project is to analyze sales performance across different o
 
 ## 📷 Dashboard Preview
 
-> Upload your dashboard screenshot as **dashboard.png** and it will appear here.
+
+## Dashboard Preview
 
 ![Blinkit Dashboard](dashboard.png)
+![Blinkit Dashboard](blinkit-dashboard.png)
 
 ---
 
