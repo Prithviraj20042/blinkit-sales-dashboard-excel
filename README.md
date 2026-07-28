@@ -52,7 +52,7 @@ The objective of this project is to analyze sales performance across different o
 ## 📷 Dashboard Preview
 
 
-## Dashboard Preview
+
 
 ![Blinkit Dashboard](dashboard.png)
 ![Blinkit Dashboard](blinkit-dashboard.png)
